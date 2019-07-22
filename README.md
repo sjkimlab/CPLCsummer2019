@@ -10,4 +10,4 @@ Code modified from Sangjin's postdoc work in the <a href="https://github.com/Jac
 
 # SPT
 Code for trajectory analysis, written by Kavya Vaidya.
-Trajectories from <a href="https://github.com/DanuserLab/u-trackCode">U-track</a> are visualized and analyzed for diffusion coefficient.
+Trajectories from <a href="https://github.com/DanuserLab/u-track">U-track</a> are visualized and analyzed for diffusion coefficient.
