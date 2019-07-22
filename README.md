@@ -9,5 +9,5 @@ Matlab code for analyzing <a href="https://github.com/sjkimlab/CPLCsummer2019/tr
 Code modified from Sangjin's postdoc work in the <a href="https://github.com/JacobsWagnerLab/published">Jacobs-Wagner lab</a>
 
 # SPT
-Code analyzes trajectories from <a href="https://github.com/DanuserLab/u-trackCode">U-track</a>. 
-Written by Kavya Vaidya.
+Code analaysis written by Kavya Vaidya.
+Trajectories from <a href="https://github.com/DanuserLab/u-trackCode">U-track</a> are visualized and analyzed for diffusion coefficient.
